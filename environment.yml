@@ -1,0 +1,7 @@
+name: world_demographic
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - jupyter
